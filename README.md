@@ -18,8 +18,8 @@ I chose this dataset, as I undertsood the business context quite well and could 
 
 
 # File Descriptions
-All the data sources can be found in ./Data directory. They were downloaded from [kaggle] (https://www.kaggle.com/airbnb/boston?select=listings.csv)
-[More information about the dataset] (http://insideairbnb.com/about.html)
+All the data sources can be found in ./Data directory. They were downloaded from [kaggle](https://www.kaggle.com/airbnb/boston?select=listings.csv)
+[More information about the dataset](http://insideairbnb.com/about.html)
 
 There are 2 jupyter notebooks in the project:
 * price_prediction: file where listings data set is analysed to understand what are the key features that impact listing price on AirBnB

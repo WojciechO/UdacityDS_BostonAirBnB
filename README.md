@@ -36,6 +36,6 @@ In the end I have random forest regression model, predicting the price of listin
 
 
 # Licensing, Authors, Acknowledgements
-I used a lot of on-line resources when looking for the best way to find answers to my q uestions.
+I used a lot of on-line resources when looking for the best way to find answers to my questions.
 One of the biggest sources of knowledge was https://machinelearningmastery.com/ website, where I looked for examples of one-hot encoding.
 https://mljar.com/blog/feature-importance-in-random-forest/ was the tutorial I used to get Shapley values for the random forest model

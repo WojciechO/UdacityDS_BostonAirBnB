@@ -34,6 +34,8 @@ I had issues with interpretation of "availability_rate "calculated based on the 
 In the price_prediction I go through a lengthy process of data cleaning and data extraction </br>
 In the end I have random forest regression model, predicting the price of listings. Based on the model, feature importance was assessed, using Shapley values [docs](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
 
+Final outcome of the analysis is the [Medium article](https://medium.com/@wojciech.orchowski/insights-about-boston-airbnb-market-from-someone-whos-never-been-to-the-us-a3713faaa757) 
+
 
 # Licensing, Authors, Acknowledgements
 I used a lot of on-line resources when looking for the best way to find answers to my questions.
